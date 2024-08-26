@@ -8,5 +8,4 @@ Welcome to my readme.
 
 
 
-[Spider Chat](https://weblabsaus.github.io/Spider-Chat/)
-[Space Shooter](https://weblabsaus.github.io/Space-Shooter/)
+[Mega Launcher](https://weblabsaus.github.io/Mega-Launcher)
