@@ -9,4 +9,4 @@ Welcome to my readme.
 
 
 [Mega Launcher](https://weblabsaus.github.io/Mega-Launcher)
-[![SpearMint](https://i.ibb.co/zVmNBYw/Shop-Market-i-OS-Icon.png)](https://weblabsaus.github.io/spearmint)
+[Spearmint Shop](https://weblabsaus.github.io/Spearmint/)
