@@ -9,6 +9,6 @@ Welcome to my readme.
 
 
 
-[Mega Launcher](https://weblabsaus.github.io/Mega-Launcher)
-[Spearmint Shop](https://weblabsaus.github.io/Spearmint/)
-[My Website](https://weblabsaus.github.io/)
+
+[My Website](https://guns.lol/lachameleon/)
+[Bliss Client](https://lachadev.github.io/blissclient)
